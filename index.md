@@ -1,5 +1,5 @@
 # Places
-[Places Home](places/)
+[Places Home](places)
 
 
 ## Welcome to GitHub Pages
