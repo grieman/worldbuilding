@@ -1,5 +1,5 @@
 # Places
-[Places Home](places.md)
+[Places Home](places/)
 
 
 ## Welcome to GitHub Pages
