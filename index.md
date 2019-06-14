@@ -1,5 +1,5 @@
 # Places
-[Places Home]({% link places.md %})
+[Places Home](places.md)
 
 
 ## Welcome to GitHub Pages
