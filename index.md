@@ -1,5 +1,13 @@
+# People
+[People Home](people)
+[Calum](people/calum.md)
+[Riordan Ullan McWard](people/riordan.md)
+
 # Places
 [Places Home](places)
+
+
+
 
 
 ## Welcome to GitHub Pages
