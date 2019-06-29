@@ -1,3 +1,5 @@
+[glossary](glossary)
+
 # People
 [All People](people)
 
@@ -7,3 +9,5 @@
 
 # Places
 [All Places](places)
+
+
