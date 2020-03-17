@@ -1,13 +1,10 @@
-[glossary](glossary)
+# Player Characters
+[Stjern Kustos](people/pcs/Stjern.md)
 
-# People
-[All People](people)
+[Valierre Pontfotaine VIII](people/pcs/Valierre.md)
 
-[Calum](people/calum.md)
-
-[Riordan Ullan McWard](people/riordan.md)
-
-# Places
-[All Places](places)
+[Gideon ben Jacen](people/pcs/Gideon.md)
 
 
+# Notable Groups
+[The Ace of Harts](ships/ace_of_hartrs/ace_of_harts.md)

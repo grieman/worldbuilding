@@ -1,0 +1,3 @@
+# Kirsta "Bavvy" Bavigard
+
+A quiet and unassuming female half elf in her early fifties. She wear spectacles and always carries with her a quill and notebook. She is timid by the standards of the Ace of Harts, but merely reserved by the standards of most landlubbers. She has an extraordinary head for numbers, making her a natural choice for Ship's Engineer and Treasurer. She mostly keeps to her quarters, partaking in her preferred hobbies of reading and sewing when she is not working on the ship log or the fund book. Despite her penchant for quietude, she is quite athletically fit and capable of helping on deck when necessary.
