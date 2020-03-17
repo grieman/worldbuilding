@@ -15,7 +15,7 @@
   * petty officer and advisor to the captain, in charge of anything the first mate and quartermaster don't want to deal with (duties can be combined with first mate)
 * Engineer: [Kirsta "Bavvy" Bavigard](../../people/Kirsta_Bavvy.md)
   * accountant, in charge of tracking ship funds, making necessary purchases for the upkeep of the ship, and outfitting the ship with supplies; reports directly to captain (duties can be combined with first mate)
-* Navigator (Sailing Master): [Valierre Pontfotaine VIII "Val"](../../people/pcs/Valierre.md)
+* Navigator (Sailing Master): [Valierre "Val" Louis-Baptiste Jean-Alexandre Pontfotaine VIII](../../people/pcs/Valierre.md)
   * in charge of maps and navigation, has final say on where ship goes and which routes are taken; reports directly to captain
 * Bosun (Boatswain): [Benðron "Ben" Vörðurhínn](../../people/Bendron.md)
   *  in charge of ship maintenance and inspection, ensures that vessel always remains seaworthy and in good condition, inspects vessel thoroughly every morning; reports to quartermaster
