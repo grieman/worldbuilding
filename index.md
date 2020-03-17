@@ -7,4 +7,4 @@
 
 
 # Notable Groups
-[The Ace of Harts](ships/ace_of_hartrs/ace_of_harts.md)
+[The Ace of Harts](ships/ace_of_harts/ace_of_harts.md)
