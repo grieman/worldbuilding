@@ -10,4 +10,4 @@
 [The Ace of Harts](ships/ace_of_harts/ace_of_harts.md)
 
 # Homebrew
-[School of Lore](homebrew/lore_wizard.md)
+[School of Lore](homebrew/CHANGE_TO_lore_wizard.md)
