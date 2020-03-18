@@ -11,7 +11,7 @@
   * advisor and right hand man to captain, in charge of recruiting (or press ganging), technically outranks quartermaster but has less actual authority
 * Quartermaster: [Trammitch "Whiplash" Jones](../../people/Trammitch_Whiplash.md)
   * maintains order, resolves quarrels and settles disputes, distributes loot and pays wages, represents the interests of the crew; most authority on ship after captain
-* Second Mate: [Harper ___](../../people/Harper.md)
+* Second Mate: [Harper Aoi'tori](../../people/Harper.md)
   * petty officer and advisor to the captain, in charge of anything the first mate and quartermaster don't want to deal with (duties can be combined with first mate)
 * Engineer: [Kirsta "Bavvy" Bavigard](../../people/Kirsta_Bavvy.md)
   * accountant, in charge of tracking ship funds, making necessary purchases for the upkeep of the ship, and outfitting the ship with supplies; reports directly to captain (duties can be combined with first mate)
